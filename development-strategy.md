@@ -27,7 +27,7 @@ __As a site visitor, I want to know about your team and who is in it__
 
 ### Repo
 
-This user story was developed on a brach called `1-about-team`
+This user story was developed on a branch called `1-about-team`
 
 ### README.md
 
@@ -35,13 +35,13 @@ Wrote an introduction to the team and added a list with all of our names.
 
 ---
 
-## 2. User Story: introducing name
+## 2. User Story: introducing Boam
 
-__As a site visitor, I want to learn more about Akbel__
+__As a site visitor, I want to learn more about Boam__
 
 ### Repo
 
-This user story was developed on a brach called `name`
+This user story was developed on a branch called `2-Boam`
 
 ### name.md
 

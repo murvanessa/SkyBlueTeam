@@ -2,7 +2,7 @@
 Welcome to our team branches. The sky is our limit.
 
 # Team members
- * Boam
+ * [Boam](./Boam.md)
  * Feruz
  * Harun
  * Miroslav
