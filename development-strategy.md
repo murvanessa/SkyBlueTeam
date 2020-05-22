@@ -43,7 +43,7 @@ __As a site visitor, I want to learn more about Boam__
 
 This user story was developed on a branch called `2-Boam`
 
-### name.md
+### Boam.md
 
 Write a markdown bio page for this team member
 
@@ -53,15 +53,15 @@ Change this team member's name on the list into a link to their new profile page
 
 ---
 
-## 3. User Story: introducing name
+## 3. User Story: introducing Feruz
 
-__As a site visitor, I want to learn more about Tiago__
+__As a site visitor, I want to learn more about Feruz__
 
 ### Repo
 
-This user story was developed on a brach called `name`
+This user story was developed on a branch called `Feruz`
 
-### tiago.md
+### Feruz.md
 
 Write a markdown bio page for this team member
 
