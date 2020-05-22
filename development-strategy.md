@@ -125,6 +125,24 @@ Change this team member's name on the list into a link to their new profile page
 
 ---
 
+## 7. User Story: introducing Yana
+
+__As a site visitor, I want to learn more about Yana__
+
+### Repo
+
+This user story was developed on a branch called `7-Yana`
+
+### Yana.md
+
+Write a markdown bio page for this team member
+
+### README.md
+
+Change this team member's name on the list into a link to their new profile page
+
+---
+
 ## 6. Finishing Touches
 
 __As a perfectionist, I want everything perfect :)__
