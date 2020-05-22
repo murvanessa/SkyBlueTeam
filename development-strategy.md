@@ -53,15 +53,15 @@ Change this team member's name on the list into a link to their new profile page
 
 ---
 
-## 3. User Story: introducing Feruz
+## 3. User Story: introducing name
 
-__As a site visitor, I want to learn more about Feruz__
+__As a site visitor, I want to learn more about name__
 
 ### Repo
 
-This user story was developed on a branch called `Feruz`
+This user story was developed on a branch called `name`
 
-### Feruz.md
+### name.md
 
 Write a markdown bio page for this team member
 
