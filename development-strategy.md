@@ -71,15 +71,15 @@ Change this team member's name on the list into a link to their new profile page
 
 ---
 
-## 4. User Story: introducing name
+## 4. User Story: introducing Harun
 
-__As a site visitor, I want to learn more about Mert__
+__As a site visitor, I want to learn more about Harun__
 
 ### Repo
 
-This user story was developed on a brach called `name`
+This user story was developed on a branch called `4-Harun`
 
-### mert.md
+### Harun.md
 
 Write a markdown bio page for this team member
 
