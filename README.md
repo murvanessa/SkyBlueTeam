@@ -5,6 +5,6 @@ Welcome to our team branches. The sky is our limit.
  * [Boam](./Boam.md)
  * [Feruz](./Feruz.md)
  * [Harun](./Harun.md)
- * Miroslav
+ * [Miroslav](./Miroslav.md)
  * Murielle
 * Yana
