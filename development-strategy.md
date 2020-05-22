@@ -95,9 +95,27 @@ __As a site visitor, I want to learn more about Miroslav__
 
 ### Repo
 
-This user story was developed on a brach called `5-Miroslav`
+This user story was developed on a branch called `5-Miroslav`
 
 ### Miroslav.md
+
+Write a markdown bio page for this team member
+
+### README.md
+
+Change this team member's name on the list into a link to their new profile page
+
+---
+
+## 6. User Story: introducing Murielle
+
+__As a site visitor, I want to learn more about Murielle__
+
+### Repo
+
+This user story was developed on a branch called `6-Murielle`
+
+### Murielle.md
 
 Write a markdown bio page for this team member
 
